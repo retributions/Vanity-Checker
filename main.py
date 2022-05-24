@@ -6,7 +6,7 @@ import time
 r1 = Fore.RED
 g = Fore.GREEN
 
-os.system('title Made By ~ Social404')
+os.system('title Made By ~ solar#7777')
 time.sleep(.5)
 os.system('title Social Vanity ~ V1.0')
 Codes = open('Vanitys.txt', 'r').read().split('\n')
